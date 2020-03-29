@@ -3,4 +3,4 @@
 A Simple Material Avatar maker made using Html,Js,Svg.
 
  Visit:
- https://rushiranpise.github.io/mymaterialavatar/.
+https://rushiranpise.github.io/MyMAM/.
