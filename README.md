@@ -9,7 +9,7 @@ For Both Boys & Girls!
  Visit : [Here](https://rushiranpise.github.io/MyMAM/).
  ------
  
- Best Viewd in Desktop Mode in Mobiles!
+ Best Viewed in Desktop Mode in Mobiles!
  ======================================
  
 Usage :
