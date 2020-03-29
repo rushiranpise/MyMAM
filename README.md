@@ -3,6 +3,8 @@ My Material Avatar Maker
 <img src="avatar.png" align="center" alt="Material Avatar" />
 
 A Simple Material Avatar maker made using Html,Js,Svg.
+For Both Boys & Girls!
+----------------------
 
  Visit : [Here](https://rushiranpise.github.io/MyMAM/).
  ------
@@ -13,7 +15,7 @@ Usage :
 ```shell
 Each time you visit/refresh the site, random avtar is generated
 ```
-Alternate, You can hit the random icon to generate. <img src="random.svg" align="center" alt="Material Avatar" />
+Alternate, You can hit the random icon to generate.
 ---
 > MENU :
 ```shell
