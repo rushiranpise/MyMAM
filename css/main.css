@@ -9,8 +9,8 @@
 
 body {
     font: 15px sans-serif, Arial, Verdana;
-    background: #f0f0ff;
-    overflow: visible;
+    background: #121212;
+    overflow: hidden;
 }
 h3 {color: white;}
 svg {
