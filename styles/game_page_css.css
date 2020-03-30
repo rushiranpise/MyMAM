@@ -1,0 +1,134 @@
+
+
+  @media screen  and (min-width: 200px) and (max-width: 800px) {
+
+    nav {
+      width: 200px;
+      position: absolute;
+      left: -200px; 
+      text-align: center;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+  
+   .nav {
+     font-size: 1.2em;
+     font-weight: bold;
+     color: #000000; 
+     text-decoration: none;
+	 
+   }
+  
+   li {
+     padding-bottom: 1em;
+     border-bottom: 3px solid white;
+   }
+  
+    li:not(:last-child) {
+      margin-bottom: 1em;
+    }
+  
+   .nav {
+     font-size: 1.2em;
+     font-weight: bold;
+     color: #000000; 
+     text-decoration: none;
+   }
+    
+
+    
+    .header {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      justify-content: space-between;
+      margin-top: 0.5em;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      align-items: center;
+    }
+    
+    
+    .icon-bar {
+      width: 2em;
+      height: 4px;
+      display: block; 
+      background-color: #000000;
+    }
+    
+    .icon-bar + .icon-bar { 
+      margin-top: 5px;
+    }
+  
+    h2 a {
+      cursor:pointer;
+      color: #000000;
+      text-decoration: none;
+    }
+
+  
+	
+    .show-nav #page-canvas {
+      transform: translateZ(0) translateX(200px);
+    }
+
+
+
+  }
+
+
+
+  @media screen and (min-width: 800px) {
+    
+
+    ul {
+      display: flex;
+      flex-direction: flex-column;
+      list-style: none;
+      justify-content: center;
+      text-align:center;
+    }
+  
+   .nav {
+     font-size: 1.2em;
+     font-weight: bold;
+     color: #000000; 
+     text-decoration: none;
+     margin-left:20px;
+     margin-right:20px;
+   }
+  
+
+    
+    header {
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1em;
+      margin: auto;
+    }
+    
+    .toggleTrigger, #top-btn {
+      display:none;
+    }
+  
+    h2 a {
+      cursor:pointer;
+      color: #000000;
+      text-decoration: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
