@@ -10,7 +10,7 @@
 body {
     font: 15px sans-serif, Arial, Verdana;
     background: #f0f0ff;
-    overflow: hidden;
+    overflow: visible;
 }
 h3 {color: white;}
 svg {
