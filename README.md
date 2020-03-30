@@ -3,6 +3,7 @@ My Material Avatar Maker
 <img src="avatar.png" align="center" alt="Material Avatar" />
 
 A Simple Material Avatar maker made using Html,Js,Svg.
+
 For Both Boys & Girls!
 ----------------------
 
